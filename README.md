@@ -1,3 +1,3 @@
 # tutorial
 
-<a href="google.com">11</a>
+<a href="http://www.google.com">11</a>
